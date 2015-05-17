@@ -6,3 +6,5 @@
 myTestFunciton: 函式練習 > 加法、大小判斷、平均值。
 
 <week 3>
+
+
